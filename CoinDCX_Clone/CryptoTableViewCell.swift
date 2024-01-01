@@ -1,9 +1,3 @@
-//
-//  CryptoTableViewCell.swift
-//  CoinDCX_Clone
-//
-//  Created by DevMAC01 on 14/12/23.
-//
 
 import UIKit
 
