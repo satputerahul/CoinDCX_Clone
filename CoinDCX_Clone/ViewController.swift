@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  CoinDCX_Clone
-//
-//  Created by DevMAC01 on 12/12/23.
-//
 
 import UIKit
 
